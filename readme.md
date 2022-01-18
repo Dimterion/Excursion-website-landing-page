@@ -1,5 +1,5 @@
 # Codecademy Excursion project
 ## A web page with an introduction for the mobile app.
 ### HTML, CSS files and resources for the page (images and video)
-#### [Excursion website](https://dimterion.github.io/excursion/)
+#### [Excursion website](https://dimterion.github.io/Excursion-website/)
 ##### Made with HTML, CSS
