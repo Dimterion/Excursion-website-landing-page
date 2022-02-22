@@ -1,6 +1,6 @@
 # Excursion-website
 
-Codecademy project
+Codecademy project to learn HTML&CSS
 
 ## Link to the website
 
