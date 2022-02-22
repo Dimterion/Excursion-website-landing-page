@@ -4,7 +4,7 @@ Codecademy project to learn HTML&CSS
 
 ## Link to the page
 
-[Excursion website landing page](https://dimterion.github.io/Excursion-website/)
+[Excursion website landing page](https://dimterion.github.io/Excursion-website-landing-page/)
 
 ### Built with
 
